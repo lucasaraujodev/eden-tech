@@ -6,22 +6,22 @@ let config = {
     {
       "Title": "Alimentação & Gastronomia",
       "URL": "#",
-      "icon_classes": "fas fa-link",
+      "icon_classes": "fa-solid fa-wine-glass",
     },
     {
       "Title": "Arte e Cultura",
       "URL": "#",
-      "icon_classes": "fab fa-github",
+      "icon_classes": "fa-solid fa-palette",
     },
     {
       "Title": "Automotivo",
       "URL": "https://play.google.com/store/apps/dev?id=6729187126243636577",
-      "icon_classes": "fab fa-google-play"
+      "icon_classes": "fa-solid fa-car"
     },
     {
       "Title": "Casamento",
       "URL": "https://harindulk.itch.io/",
-      "icon_classes": "fab fa-itch-io"
+      "icon_classes": "fa-solid fa-heart"
     },
     {
       "Title": "Blogs",
@@ -31,62 +31,62 @@ let config = {
     {
       "Title": "Educação",
       "URL": "https://twitter.com/Harindu_Fonseka",
-      "icon_classes": "fab fa-twitter"
+      "icon_classes": "fa-solid fa-graduation-cap"
     },
     {
       "Title": "Empresas & Institucional",
       "URL": "https://www.linkedin.com/in/harindulk/",
-      "icon_classes": "fab fa-linkedin"
+      "icon_classes": "fa-solid fa-briefcase"
     },
     {
       "Title": "E-commerces",
       "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
-      "icon_classes": "fab fa-youtube"
+      "icon_classes": "fa-solid fa-cart-shopping"
     },
     {
       "Title": "Fitness",
       "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
-      "icon_classes": "fab fa-youtube"
+      "icon_classes": "fa-solid fa-dumbbell"
     },
     {
       "Title": "Imobiliário",
       "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
-      "icon_classes": "fab fa-youtube"
+      "icon_classes": "fa-solid fa-house"
     },
     {
       "Title": "Landing Pages",
       "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
-      "icon_classes": "fab fa-youtube"
+      "icon_classes": "fa-solid fa-pager"
     },
     {
       "Title": "Moda & Beleza",
       "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
-      "icon_classes": "fab fa-youtube"
+      "icon_classes": "fa-solid fa-shirt"
     },
     {
       "Title": "Restaurantes & Fast Food",
       "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
-      "icon_classes": "fab fa-youtube"
+      "icon_classes": "fa-solid fa-pizza-slice"
     },
     {
       "Title": "Saúde & Bem-Estar",
       "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
-      "icon_classes": "fab fa-youtube"
-    },
-    {
-      "Title": "Technologia & TI",
-      "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
-      "icon_classes": "fab fa-youtube"
+      "icon_classes": "fa-solid fa-heart-pulse"
     },
     {
       "Title": "Viagens & Turismo",
       "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
-      "icon_classes": "fab fa-youtube"
+      "icon_classes": "fa-solid fa-plane-departure"
     },
     {
-      "Title": "Apps",
+      "Title": "Technologia & TI",
       "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
-      "icon_classes": "fab fa-youtube"
+      "icon_classes": "fa-solid fa-laptop"
+    },
+    {
+      "Title": "Aplicativos",
+      "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
+      "icon_classes": "fa-solid fa-mobile-screen-button"
     },
   ]
 }
