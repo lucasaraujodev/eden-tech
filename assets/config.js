@@ -29,6 +29,11 @@ let config = {
       "icon_classes": "fas fa-blog"
     },
     {
+      "Title": "Currículos & Portfólios",
+      "URL": "blog-test",
+      "icon_classes": "fas fa-file"
+    },
+    {
       "Title": "Educação",
       "URL": "https://twitter.com/Harindu_Fonseka",
       "icon_classes": "fa-solid fa-graduation-cap"
@@ -79,7 +84,7 @@ let config = {
       "icon_classes": "fa-solid fa-plane-departure"
     },
     {
-      "Title": "Technologia & TI",
+      "Title": "Tecnologia & TI",
       "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
       "icon_classes": "fa-solid fa-laptop"
     },
