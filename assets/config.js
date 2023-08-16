@@ -1,96 +1,91 @@
 let config = {
-  "Title": "EDEN - Links",
+  "Title": "EDEN - Nichos",
   "Name": "EDEN Tech",
   "Description": "Escolha o seu nicho",
   "links": [
     {
       "Title": "Alimentação & Gastronomia",
-      "URL": "#",
+      "URL": "https://lucasaraujodev.github.io/portfolio-list/niches/gastronomy.html",
       "icon_classes": "fa-solid fa-wine-glass",
     },
     {
       "Title": "Arte e Cultura",
-      "URL": "#",
+      "URL": "https://lucasaraujodev.github.io/portfolio-list/niches/art.html",
       "icon_classes": "fa-solid fa-palette",
     },
     {
       "Title": "Automotivo",
-      "URL": "https://play.google.com/store/apps/dev?id=6729187126243636577",
+      "URL": "https://lucasaraujodev.github.io/portfolio-list/niches/cars.html",
       "icon_classes": "fa-solid fa-car"
     },
     {
       "Title": "Casamento",
-      "URL": "https://harindulk.itch.io/",
+      "URL": "https://lucasaraujodev.github.io/portfolio-list/niches/wedding.html",
       "icon_classes": "fa-solid fa-heart"
     },
     {
       "Title": "Blogs",
-      "URL": "blog-test",
+      "URL": "https://lucasaraujodev.github.io/portfolio-list/niches/blogs.html",
       "icon_classes": "fas fa-blog"
     },
     {
-      "Title": "Currículos & Portfólios",
-      "URL": "blog-test",
-      "icon_classes": "fas fa-file"
-    },
-    {
       "Title": "Educação",
-      "URL": "https://twitter.com/Harindu_Fonseka",
+      "URL": "https://lucasaraujodev.github.io/portfolio-list/niches/education.html",
       "icon_classes": "fa-solid fa-graduation-cap"
     },
     {
-      "Title": "Empresas & Institucional",
-      "URL": "https://www.linkedin.com/in/harindulk/",
+      "Title": "Empresas & Serviços",
+      "URL": "https://lucasaraujodev.github.io/portfolio-list/niches/business.html",
       "icon_classes": "fa-solid fa-briefcase"
     },
     {
       "Title": "E-commerces",
-      "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
+      "URL": "https://lucasaraujodev.github.io/portfolio-list/niches/e-commerces.html",
       "icon_classes": "fa-solid fa-cart-shopping"
     },
     {
       "Title": "Fitness",
-      "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
+      "URL": "https://lucasaraujodev.github.io/portfolio-list/niches/fitness.html",
       "icon_classes": "fa-solid fa-dumbbell"
     },
     {
       "Title": "Imobiliário",
-      "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
+      "URL": "https://lucasaraujodev.github.io/portfolio-list/niches/houses.html",
       "icon_classes": "fa-solid fa-house"
     },
     {
       "Title": "Landing Pages",
-      "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
+      "URL": "https://lucasaraujodev.github.io/portfolio-list/niches/landing-pages.html",
       "icon_classes": "fa-solid fa-pager"
     },
     {
       "Title": "Moda & Beleza",
-      "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
+      "URL": "https://lucasaraujodev.github.io/portfolio-list/niches/fashion.html",
       "icon_classes": "fa-solid fa-shirt"
     },
     {
-      "Title": "Restaurantes & Fast Food",
-      "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
-      "icon_classes": "fa-solid fa-pizza-slice"
+      "Title": "Pets",
+      "URL": "https://lucasaraujodev.github.io/portfolio-list/niches/pet.html",
+      "icon_classes": "fa-solid fa-dog"
     },
     {
       "Title": "Saúde & Bem-Estar",
-      "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
+      "URL": "https://lucasaraujodev.github.io/portfolio-list/niches/health.html",
       "icon_classes": "fa-solid fa-heart-pulse"
     },
     {
       "Title": "Viagens & Turismo",
-      "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
+      "URL": "https://lucasaraujodev.github.io/portfolio-list/niches/travel.html",
       "icon_classes": "fa-solid fa-plane-departure"
     },
     {
       "Title": "Tecnologia & TI",
-      "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
+      "URL": "https://lucasaraujodev.github.io/portfolio-list/niches/tech-ti.html",
       "icon_classes": "fa-solid fa-laptop"
     },
     {
       "Title": "Aplicativos",
-      "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
+      "URL": "https://lucasaraujodev.github.io/portfolio-list/niches/apps.html",
       "icon_classes": "fa-solid fa-mobile-screen-button"
     },
   ]
